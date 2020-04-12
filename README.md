@@ -17,3 +17,18 @@ prior
 1. To create individual add-on classes for adaptive enhancement and upscaling functionality which can easily be used.
 2. To provide a custom value based customization for video enhancement and upscaling functionality
 3. To create an add-on class for the image segmentation ​with the bounding box using topological prior
+
+### MEASURABLE OUTCOMES:
+1. To create individual add-on classes for adaptive enhancement and upscaling functionality which can easily be used.
+2. To provide a custom value based customization for video enhancement and upscaling functionality
+3. To create an add-on class for the image segmentation ​with the bounding box using topological prior
+ACHIEVING PROJECT GOALS
+The entire project can be broadly classified into three phases through completion
+Phase 1-​Deliverable before the first Mid-Term evaluation
+1.1. Add-on class functionality for the video upscaling 1.2 creating database for the image segmentation 1.3 testing various algorithms with our database 1.3 building class for the image segmentation function ​with the bounding box using topological prior 1.4 declaration of the validation parameters
+Phase 2-​Deliverable before the second Mid-Term evaluation
+2.1 working on the custom value based customization for upscaling 2.2 testing the video upscaling function 2.3 building a add on class for the video enhancement functionality 2.4 testing image segmentation
+Phase 3-​Deliverable before the final evaluation
+3.1 working on the custom value based customization for the video enhancement functionality 3.2 testing all the three classed 3.3 documentation of the parameters with minimum and maximum values for customization 3.4 debugging of the classes along with the parameters
+Wishlist: ​Can be implemented if all the above tasks are completed successfully and the programme is yet to end, also desired to be taken up post GSoC
+● Additional class which uses the objects calls of all the above classes with a standardized value parameters, without individually calling the parameters for each sub classes
